@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
     int n;
-    
     cin>>n;
     int num=n;
     int sum=0;
