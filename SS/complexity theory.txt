@@ -1,0 +1,76 @@
+Complexity:
+Complexity means amount of time, space required for the execution of algorithm.
+There are 2 types of complexity.
+    1. Time Complexity: Amount of time req to finish the execution of algo.
+    2. Space Complexity: Amount of space req to finish the execution of algo.
+
+
+Notation:
+
+for time complexity
+1. Best Case:
+2. Average Case:
+3. Worst Case:
+
+for space complexity
+1. Data space
+2. instruction space
+3. File space
+
+
+Iterations:
+The no of times a loop executed.
+
+Fundamental Operation on data structures:
+1. Insertion
+2. Deletion
+3. Sorting
+4. Searching
+5. Traversing
+
+
+
+Data structure:
+means systematically arrangement of data into computer memory.
+Types:
+    1. Linear 
+    2. Non-Linear
+
+1. Linear (ASQL):
+    Array, Stack, Queue, Linked-list
+
+2. Non-Linear:
+    Tree, Map, Graph
+
+                                                  
+
+
+Real time implementation on data structures :
+
+
+
+
+ques: write a program to demonstrate Array
+    case 1: print even no seprate and odd separeated
+    case 2: print 0 at last side of array
+    case 3: count similar numbers from array (count of each char)
+
+
+ques: implement the complexity with given : banglaore
+    case 1: print it in uppercase 
+    case 2: print alternate uppercase
+
+ascii:
+'a' is 97
+'A' is 65
+
+
+
+What is polymorphism??
+
+
+
+seive algo
+segment seive algo
+increment seive algo
+euler phi algo
