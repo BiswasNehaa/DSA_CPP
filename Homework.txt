@@ -1,0 +1,8 @@
+26th March:
+
+1. convert the given number decimal to binary: 10.2
+2. program to developed login credentials with username and password : username: admin , password:Admin@123#
+    case: if 3 incorrect pass...msg ur sys block.. then block the keyword(sys.exit())
+3. write a program to generate 4 digits OTP
+
+4. rotatory array
